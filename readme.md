@@ -1,6 +1,7 @@
 # Pizza Store
 
 An example of 'learning angularjs testing'.
+Based on the [video tutorial from Rudolf Olah](https://www.safaribooksonline.com/library/view/learning-angularjs-testing/9781782174899/).
 
 ## Installation
 
